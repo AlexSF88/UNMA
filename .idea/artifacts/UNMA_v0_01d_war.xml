@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="UNMA v0.01d:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="unotes-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="UNMA v0.01d:war exploded" />
+    </root>
+  </artifact>
+</component>

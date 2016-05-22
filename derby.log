@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Tue Feb 02 23:06:43 MSK 2016:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.12.1.1 - (1704137): instance a816c00e-0152-a398-265c-000013bc3428 
+on database directory C:\Users\Алексей\Projects\UNMA v0.01d\target\derbydb2 with class loader WebAppClassLoader=1298670487@4d682397 
+Loaded from file:/C:/Users/%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B5%D0%B9/.m2/repository/org/apache/derby/derby/10.12.1.1/derby-10.12.1.1.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_45-b15
+user.dir=C:\Users\Алексей\Projects\UNMA v0.01d
+os.name=Windows 7
+os.arch=amd64
+os.version=6.1
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''

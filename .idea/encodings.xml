@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/ru/al/WebAppUI.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/ru/al/controller" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/main/java/ru/al/model" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/main/java/ru/al/model/Customer.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/ru/al/model/Diary.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/ru/al/model/Note.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/ru/al/model/ServiceManager.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/ru/al/model/Task.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/ru/al/test/ChildTestImpl.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/main/java/ru/al/test/Test.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/main/java/ru/al/test/TestImpl.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/main/java/ru/al/view" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/main/java/ru/al/view/components/DraggingField.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/main/java/ru/al/view/components/EditableLabel.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/ru/al/view/components/NavigationTree.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/ru/al/view/views/DiaryView.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/ru/al/view/views/TaskView.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/ru/al/view/views/layouts/BodyLayout.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/ru/al/view/views/layouts/ConfirmationDialog.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/ru/al/view/views/layouts/HeaderMenu.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/ru/al/view/views/layouts/LegacySideLayout.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/ru/al/view/views/layouts/MessageBox.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/ru/al/view/views/layouts/TaskWindow.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/ru/al/view/views/layouts/WallLayout.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/ru/al/view/wrappers/ViewUtils.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/META-INF" charset="windows-1251" />
+  </component>
+</project>
